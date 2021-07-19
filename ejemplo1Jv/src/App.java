@@ -23,6 +23,5 @@ public class App {
         String variable14 = "Hola\"Mundo\"";
         System.out.println(variable12);
         System.out.println(variable13);
-        System.out.println("funcionara");
     }
 }
